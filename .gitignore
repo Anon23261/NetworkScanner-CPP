@@ -1,0 +1,23 @@
+# Build directory
+build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
